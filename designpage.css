@@ -280,3 +280,8 @@ navbar-light.navbar-toggler {
 #banner button {
     background-color: #fb774b;
 }
+
+footer .copyright a:hover {
+    color: rgb(237, 228, 228);
+    background-color: #fb774b;
+}
